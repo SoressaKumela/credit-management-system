@@ -106,3 +106,5 @@ erDiagram
 - **Automated WhatsApp Reminders:** Seamless deep-linking to WhatsApp with pre-filled message templates summarizing outstanding ETB balances.
 - **Strict Credit Limits:** Backend atomic operations prevent shop owners from giving out credit that exceeds the customer's predefined maximum limit.
 - **Skeuomorphic "Digital Paper" UI:** Inspired by the Stitch "Digital Paper Ledger" design system, utilizing warm paper-white backgrounds (#F9F9F9), deep ink blue headers, and massive touch targets for tactile use.
+
+<!-- refine feature/models-polish 642693231 -->
