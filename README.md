@@ -108,3 +108,5 @@ erDiagram
 - **Skeuomorphic "Digital Paper" UI:** Inspired by the Stitch "Digital Paper Ledger" design system, utilizing warm paper-white backgrounds (#F9F9F9), deep ink blue headers, and massive touch targets for tactile use.
 
 <!-- refine feature/models-polish 642693231 -->
+
+<!-- refine feature/models-polish 99581876 -->
