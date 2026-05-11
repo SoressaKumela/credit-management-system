@@ -2,7 +2,7 @@ import { create } from 'zustand';
 import axios from 'axios';
 import { Alert } from 'react-native';
 
-export const API_URL = 'http://10.197.255.12:5000/api';
+export const API_URL = 'https://credit-system-backend-qw3g.onrender.com/api';
 
 export const useStore = create((set, get) => ({
   user: null,
